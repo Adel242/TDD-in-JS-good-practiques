@@ -1,0 +1,14 @@
+{
+  "name": "katalog-fizz-buzz",
+  "version": "1.0.0",
+  "description": "kata log",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Brian el Porongas",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
